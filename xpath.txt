@@ -1,0 +1,9 @@
+
+
+links = //h2/a/@href
+
+titulo = //div[@class = "mb-auto"]/h2/span/text()
+
+resumen = //div[@class = "lead"]/p/text()
+
+cuerpo = //div[@class = "html-content"]/p[not(@class)]/text()
